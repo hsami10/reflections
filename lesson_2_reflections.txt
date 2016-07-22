@@ -1,0 +1,8 @@
+GIT AND GITHUB COURSE - LESSON 2 REFLECTIONS
+
+Q) What happens when you initialize a repository? Why do you need to do it?
+A) A hidden git folder is created and inside it are files needed for git to work as intended. You need to do it so that git program recognizes directory to work with and track.
+
+Q) How is the staging area different from the working directory and the repository? What value do you think it offers?
+A) Working directory is a place where all files are present. Staging area is place where only files which you want to add to repository are present. Repository is place where all commited files are present. Value: Don't know because concept are not much clarified to me.
+
