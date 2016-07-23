@@ -12,3 +12,5 @@ A) This is like 'in between stage' when you can see what changes did you commit 
 Q) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A) In case of experimental activity or in adding new features but not wanting to touch master branch.
 
+Q) How do the diagrams help you visualize the branch structure?
+A) Because seeing is believing. When you see, then you know where you're located.
