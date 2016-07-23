@@ -8,3 +8,7 @@ A) Working directory is a place where all files are present. Staging area is pla
 
 Q) How can you use the staging area to make sure you have one commit per logical change?
 A) This is like 'in between stage' when you can see what changes did you commit therefore you can evaluate does it belong to one logical commit.
+
+Q) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A) In case of experimental activity or in adding new features but not wanting to touch master branch.
+
