@@ -18,4 +18,5 @@ A) Because seeing is believing. When you see, then you know where you're located
 Q) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A) All commits are now in one branch. Code is now one complete unit. Diagram is good to know when was some changes introduced. It also helps look at code by steps and understand what code does.
 
-
+Q) What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A) Automatic merging is OK, when there are no conflicts, but just added some code into branches. You don't have to rewiev all that code, since this would be time consuming. Manually merging would be time consuming, but in some cases when there are made some complicated changes, manually merging is needed.
