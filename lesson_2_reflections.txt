@@ -14,3 +14,8 @@ A) In case of experimental activity or in adding new features but not wanting to
 
 Q) How do the diagrams help you visualize the branch structure?
 A) Because seeing is believing. When you see, then you know where you're located.
+
+Q) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A) All commits are now in one branch. Code is now one complete unit. Diagram is good to know when was some changes introduced. It also helps look at code by steps and understand what code does.
+
+
