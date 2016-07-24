@@ -2,3 +2,6 @@ GIT AND GITHUB COURSE - LESSON 3 REFLECTIONS
 
 Q) When would you want to create a remote repository rather than keeping all your work local?
 A) When I intend to share my work with the public.
+
+Q) Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+A) So I can have more control. Actually I don't know. I didn't have experiences which would determine why not allow Git to automatically stay updated.
